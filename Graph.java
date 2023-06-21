@@ -86,7 +86,7 @@ public class Graph {
         DecimalFormat df = new DecimalFormat("#.#");
         x = Double.valueOf(df.format(x));
         y = Double.valueOf(df.format(y));
-        this.equation = "69";
+        this.equation = "0";
     }
     private void initialEquationOne(){
         Double x = this.mouseXLocs.get(0);
