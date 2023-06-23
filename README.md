@@ -8,7 +8,7 @@ Steps:
 2. Double click on your player who is currently shooting
 3. Now it'll essentially append a bunch of horizontal/vertical lines depending on where you click, in the order HVHVHV..., so first click where you want the first horizontal line to end and the first vertical line to start 
 4. Now click where you want the first vertical line to end and the second horizontal line to start
-5. Keep doing so until you've hit all desired players
+5. Keep doing so until you've hit all desired players (keep in mind that the graph has to end on a horizontal line, so your last click should be the end of a vertical line)
 6. Press ENTER on the keyboard to get the equation in the terminal
 
 The instructions are hard to put into words, but once you play with it a bit, you'll get the hang of it.
