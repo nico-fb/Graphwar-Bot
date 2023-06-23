@@ -1,11 +1,11 @@
 This tool outputs the equation for a graph that will help you win in the game Graphwar. The equation
 works by stringing together a lot of equations of the type **(**__)/(1+e^(-100*(x+__))) to essentially 
-make a graph that can move presicely through the coordinate plane. It works by taking in mouse clicks as 
+make a graph that can move precisely through the coordinate plane. It works by taking in mouse clicks as 
 input, so try to be exact when clicking. At any time, you can press ESC to exit the screen.
 
 Steps:
 1. Line up the red rectangle with the coordinate plane in the game
-2. Double click on your player who is currently shooting
+2. Double-click on your player who is currently shooting
 3. Now it'll essentially append a bunch of horizontal/vertical lines depending on where you click, in the order HVHVHV..., so first click where you want the first horizontal line to end and the first vertical line to start 
 4. Now click where you want the first vertical line to end and the second horizontal line to start
 5. Keep doing so until you've hit all desired players (keep in mind that the graph has to end on a horizontal line, so your last click should be the end of a vertical line)
